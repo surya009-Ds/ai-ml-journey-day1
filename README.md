@@ -159,7 +159,7 @@ multi-line comment (also used as docstrings)
 
 ## 🚀 What's Next?
 
-Day 2 → Operators, Conditions & Loops
+Day 2 → Operators & Control flow
 
 ---
 
